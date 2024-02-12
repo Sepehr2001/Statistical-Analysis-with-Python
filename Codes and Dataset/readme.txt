@@ -1,0 +1,2 @@
+code.inbpy : in this notebook, the 39th participants' data was recognized as outliers and removed.
+code (no outliers).inbpy : in this notebook, all the 40 participants' data are considered for data analysis
